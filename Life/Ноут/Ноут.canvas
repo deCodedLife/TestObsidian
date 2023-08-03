@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"e0c460a06b49f491","x":-538,"y":-299,"width":250,"height":140,"color":"5","type":"text","text":"### Mac\n#laptop "},
+		{"id":"06ed01b2c66c7e08","x":-1199,"y":-390,"width":400,"height":243,"type":"file","file":"Life/Ноут/data/Mac.webp"},
+		{"id":"4405f29aaee002fa","x":291,"y":-390,"width":400,"height":231,"type":"file","file":"Life/Ноут/data/xiaomi.webp"},
+		{"id":"ee97f05c0ec7af14","x":-180,"y":-299,"width":250,"height":140,"color":"1","type":"text","text":"### Xiaomi\n#laptop "},
+		{"id":"ffbd834bcd966655","x":-1147,"y":-40,"width":293,"height":300,"color":"1","type":"group","label":"Минусы"},
+		{"id":"e2aa50adf267bbeb","x":-1124,"y":-20,"width":250,"height":50,"color":"1","type":"text","text":"Платные приложения"},
+		{"id":"c588c92167df81d6","x":-1126,"y":60,"width":250,"height":100,"color":"1","type":"text","text":"Плохая поддержка винды"},
+		{"id":"ee4c16c9884d8054","x":-1127,"y":180,"width":250,"height":60,"color":"1","type":"text","text":"Слабоватое желехо"},
+		{"id":"63e07b01b9dcadaa","x":366,"y":-31,"width":250,"height":61,"color":"1","type":"text","text":"Низя дэплоить на mac"},
+		{"id":"67f770ca13579bfd","x":-1400,"y":-1025,"width":1132,"height":1305,"type":"group","label":"Mac"},
+		{"id":"f037cfcd9dea309b","x":-200,"y":-1025,"width":1080,"height":1305,"type":"group","label":"Xiaomi"},
+		{"id":"914881fa03b02b25","x":340,"y":-900,"width":290,"height":325,"color":"4","type":"group","label":"Плюсы"},
+		{"id":"3215a19e936766b0","x":360,"y":-880,"width":250,"height":60,"color":"4","type":"text","text":"Дешего"},
+		{"id":"326aabb13316bb95","x":360,"y":-686,"width":250,"height":90,"color":"4","type":"text","text":"Поддерка Windows приложений"},
+		{"id":"3f953c0b680507b9","x":360,"y":-782,"width":250,"height":54,"color":"4","type":"text","text":"Аккуратный дизайн"},
+		{"id":"1d04817a9412c74a","x":-1147,"y":-957,"width":291,"height":440,"color":"4","type":"group","label":"Плюсы"},
+		{"id":"69a4e17869e0c173","x":-1127,"y":-937,"width":250,"height":60,"color":"4","type":"text","text":"Топ акб в принципе"},
+		{"id":"e4c0845b8eb4ae3b","x":-1127,"y":-839,"width":250,"height":60,"color":"4","type":"text","text":"Топ экран"},
+		{"id":"7ceda91ffbb705f0","x":-1126,"y":-731,"width":250,"height":63,"color":"4","type":"text","text":"Деплой на Mac и IOS"},
+		{"id":"c2c128e530c490b4","x":-1126,"y":-597,"width":250,"height":60,"color":"4","type":"text","text":"Приятный дизайн"}
+	],
+	"edges":[
+		{"id":"8390e2e7cbdf2274","fromNode":"3215a19e936766b0","fromSide":"bottom","toNode":"3f953c0b680507b9","toSide":"top"},
+		{"id":"2f33338fdada0f15","fromNode":"3f953c0b680507b9","fromSide":"bottom","toNode":"326aabb13316bb95","toSide":"top"},
+		{"id":"a3ed290815c09028","fromNode":"e0c460a06b49f491","fromSide":"left","toNode":"06ed01b2c66c7e08","toSide":"right"},
+		{"id":"65f4eb1916873eff","fromNode":"ee97f05c0ec7af14","fromSide":"right","toNode":"914881fa03b02b25","toSide":"left"},
+		{"id":"f6f5f33ebc2d8fba","fromNode":"69a4e17869e0c173","fromSide":"bottom","toNode":"e4c0845b8eb4ae3b","toSide":"top"},
+		{"id":"6ff6b001fab6f9b2","fromNode":"e4c0845b8eb4ae3b","fromSide":"bottom","toNode":"7ceda91ffbb705f0","toSide":"top"},
+		{"id":"4a6e60bd564b864e","fromNode":"7ceda91ffbb705f0","fromSide":"bottom","toNode":"c2c128e530c490b4","toSide":"top"},
+		{"id":"87d07788b196772a","fromNode":"e0c460a06b49f491","fromSide":"left","toNode":"1d04817a9412c74a","toSide":"right"},
+		{"id":"fbe63d57f53393bb","fromNode":"ee97f05c0ec7af14","fromSide":"right","toNode":"4405f29aaee002fa","toSide":"left"},
+		{"id":"b370a4d246cd7d48","fromNode":"e2aa50adf267bbeb","fromSide":"bottom","toNode":"c588c92167df81d6","toSide":"top"},
+		{"id":"d3e201d526a546f4","fromNode":"c588c92167df81d6","fromSide":"bottom","toNode":"ee4c16c9884d8054","toSide":"top"},
+		{"id":"8ebca4e4d8650a01","fromNode":"e0c460a06b49f491","fromSide":"left","toNode":"ffbd834bcd966655","toSide":"right"},
+		{"id":"d89372aca1091d1d","fromNode":"ee97f05c0ec7af14","fromSide":"right","toNode":"63e07b01b9dcadaa","toSide":"left"}
+	]
+}
