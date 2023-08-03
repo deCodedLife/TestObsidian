@@ -66,13 +66,13 @@
             "group": "470756dfcd562fb1"
           },
           {
-            "id": "739819a545bf767b",
+            "id": "c0f95c1388bce61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Без названия.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -200,8 +200,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "739819a545bf767b",
+  "active": "bc860cbeea7d77f9",
   "lastOpenFiles": [
+    "Test category/Без названия.canvas",
+    "Без названия.md",
+    "Test note.md",
     "Yura/Сайт.md",
     "Test category/Без названия 1.canvas",
     "Расходы.md",
@@ -245,8 +248,6 @@
     "Japanese/Cards.md",
     "Japanese/Activities/TopicsPage.md",
     "Japanese/Activities/Tests.md",
-    "Japanese/Activities/Selections.md",
-    "Japanese/Activities/Connection game.md",
     "/Todo.canvas",
     "/Otchet_Po_Proizvodstvennoy_Praktike.docx",
     "/Life/Работа/Работа.canvas",
