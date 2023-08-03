@@ -4,81 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e9be6eb8a2b471b2",
+        "id": "25219fa61fb4dae1",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4162a4d86427db",
+            "id": "69eb5a2d15e8c80e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Test category/Без названия.canvas",
-                "viewState": {
-                  "x": -110,
-                  "y": 85,
-                  "zoom": 0
-                }
-              }
-            },
-            "group": "470756dfcd562fb1"
-          }
-        ]
-      },
-      {
-        "id": "cbb5e58478ec73f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42f3364fd5784fc6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Test category/Без названия.canvas",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "470756dfcd562fb1"
-          },
-          {
-            "id": "c0f95c1388bce61b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +68,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "376f941a7a9e1bc2",
@@ -144,7 +80,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Без названия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +96,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Без названия.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -172,9 +106,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Без названия.md"
-          }
+          "state": {}
         }
       },
       {
@@ -182,6 +114,14 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "a354aaf9e13ec757",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
           "state": {}
         }
       }
@@ -200,10 +140,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc860cbeea7d77f9",
+  "active": "69eb5a2d15e8c80e",
   "lastOpenFiles": [
+    "Japanese/Activities/Compare game.md",
     "Test category/Без названия.canvas",
     "Без названия.md",
+    "Todo.canvas",
     "Test note.md",
     "Yura/Сайт.md",
     "Test category/Без названия 1.canvas",
@@ -215,7 +157,6 @@
     "Wishes/Ноутбук.md",
     "Wishes/Заметки.md",
     "Wishes/Japan.md",
-    "Todo.canvas",
     "Otchet_Po_Proizvodstvennoy_Praktike.docx",
     "Life/Распорядок дня.md",
     "Life/Работа/Работа.canvas",
@@ -251,7 +192,6 @@
     "/Todo.canvas",
     "/Otchet_Po_Proizvodstvennoy_Praktike.docx",
     "/Life/Работа/Работа.canvas",
-    "/Life/Работа/Отчёты/29.01.23.canvas",
     "/Life/ВУЗ/ОТИ/books/Типы и структуры данных(типография).pdf",
     "/Life/ВУЗ/ОТИ/books/Контр_заочн_мет.pdf",
     "data",
