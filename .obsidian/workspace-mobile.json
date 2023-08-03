@@ -11,15 +11,74 @@
             "id": "4e4162a4d86427db",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Test category/Без названия.canvas",
+                "viewState": {
+                  "x": -110,
+                  "y": 85,
+                  "zoom": 0
+                }
+              }
+            },
+            "group": "470756dfcd562fb1"
+          }
+        ]
+      },
+      {
+        "id": "cbb5e58478ec73f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f3364fd5784fc6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Test category/Без названия.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "470756dfcd562fb1"
+          },
+          {
+            "id": "739819a545bf767b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Test note.md",
-                "mode": "source",
+                "file": "Без названия.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test note.md",
+            "file": "Без названия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test note.md",
+            "file": "Без названия.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test note.md"
+            "file": "Без названия.md"
           }
         }
       },
@@ -141,6 +200,62 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e4162a4d86427db",
-  "lastOpenFiles": []
+  "active": "739819a545bf767b",
+  "lastOpenFiles": [
+    "Yura/Сайт.md",
+    "Test category/Без названия 1.canvas",
+    "Расходы.md",
+    "Yura/Без-имени-2.png",
+    "Yura/Pasted image 20220824134634.png",
+    "Yura/Pasted image 20220824125514.png",
+    "Yura/Pasted image 20220824124756.png",
+    "Wishes/Ноутбук.md",
+    "Wishes/Заметки.md",
+    "Wishes/Japan.md",
+    "Todo.canvas",
+    "Otchet_Po_Proizvodstvennoy_Praktike.docx",
+    "Life/Распорядок дня.md",
+    "Life/Работа/Работа.canvas",
+    "Life/Работа/Отчёты/Drawing 2023-05-15 14.16.44.excalidraw.md",
+    "Life/Работа/Отчёты/29.01.23.canvas",
+    "Life/Основные цели.md",
+    "Life/Ноут/Ноут.canvas",
+    "Life/Ноут/data/xiaomi.webp",
+    "Life/Ноут/data/Mac.webp",
+    "Life/Мира/Желания.canvas",
+    "Life/ВУЗ/ОТИ/Задачи.canvas",
+    "Life/ВУЗ/ОТИ/books/Типы и структуры данных(типография).pdf",
+    "Life/ВУЗ/ОТИ/books/Контр_заочн_мет.pdf",
+    "Japanese homework/日本語の宿題.md",
+    "Japanese homework/Homework.md",
+    "Japanese/media/img/progress_showcase1.jpg",
+    "Japanese/media/img/progress_showcase0.jpg",
+    "Japanese/media/img/Submit.png",
+    "Japanese/media/img/StartScreen.jpg",
+    "Japanese/Training.md",
+    "Japanese/Thoughts.md",
+    "Japanese/Sync.md",
+    "Japanese/Startscreen.md",
+    "Japanese/Progress.md",
+    "Japanese/Options.md",
+    "Japanese/Multimedia.md",
+    "Japanese/Learning.md",
+    "Japanese/Learning optimization.md",
+    "Japanese/Concept.md",
+    "Japanese/Cards.md",
+    "Japanese/Activities/TopicsPage.md",
+    "Japanese/Activities/Tests.md",
+    "Japanese/Activities/Selections.md",
+    "Japanese/Activities/Connection game.md",
+    "/Todo.canvas",
+    "/Otchet_Po_Proizvodstvennoy_Praktike.docx",
+    "/Life/Работа/Работа.canvas",
+    "/Life/Работа/Отчёты/29.01.23.canvas",
+    "/Life/ВУЗ/ОТИ/books/Типы и структуры данных(типография).pdf",
+    "/Life/ВУЗ/ОТИ/books/Контр_заочн_мет.pdf",
+    "data",
+    "Yura",
+    "Wishes",
+    "Life/ВУЗ/ОТИ/books"
+  ]
 }
