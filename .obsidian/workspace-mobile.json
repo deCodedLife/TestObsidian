@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25219fa61fb4dae1",
+        "id": "d3f1505cb10de036",
         "type": "tabs",
         "children": [
           {
-            "id": "69eb5a2d15e8c80e",
+            "id": "67e3897945dab640",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -68,7 +68,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "376f941a7a9e1bc2",
@@ -140,11 +141,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69eb5a2d15e8c80e",
+  "active": "67e3897945dab640",
   "lastOpenFiles": [
+    "Без названия.md",
     "Japanese/Activities/Compare game.md",
     "Test category/Без названия.canvas",
-    "Без названия.md",
     "Todo.canvas",
     "Test note.md",
     "Yura/Сайт.md",
