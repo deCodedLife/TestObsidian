@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"a8939d7e8536e691","x":-330,"y":55,"width":506,"height":210,"color":"2","type":"text","text":"## Купить\n\n- [ ] Акварельная бумага\n- [ ] Маска\n- [ ] Карандаши ( H B1 )"},
-		{"id":"07ffc605e190a3e9","x":-327,"y":-99,"width":250,"height":60,"color":"1","type":"text","text":"#life #mira"},
-		{"id":"220405cf03e9da2b","x":250,"y":55,"width":591,"height":327,"color":"1","type":"text","text":"# Переезд"}
-	],
-	"edges":[]
-}
