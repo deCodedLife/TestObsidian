@@ -14,24 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "db9a45ec28c5fa4e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Test category/Без названия.canvas",
-                "viewState": {
-                  "x": -48.06399648922286,
-                  "y": 220.6429979768834,
-                  "zoom": 0.500992733836174
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test category/Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test category/Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test category/Без названия.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +148,61 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db9a45ec28c5fa4e",
+  "active": "a1e4e9e7e6e8c8f9",
   "lastOpenFiles": [
-    "Test category/Drawing 2023-08-03 20.34.13.excalidraw.md",
-    "Test category/Без названия 1.canvas",
-    "Без названия.md",
+    "Japanese/Training.md",
+    "Japanese/Statistics.md",
+    "Japanese/Startscreen.md",
+    "Japanese/Progress.md",
+    "Japanese/Multimedia.md",
+    "Japanese/Learning.md",
+    "Japanese/Learning optimization.md",
+    "Japanese/Concept.md",
+    "Yura/Без-имени-2.png",
+    "Yura/Сайт.md",
+    "Yura/Pasted image 20220824134634.png",
+    "Yura/Pasted image 20220824124756.png",
+    "Yura/Pasted image 20220824125514.png",
+    "Wishes/Japan.md",
+    "Wishes/Заметки.md",
+    "Wishes/Ноутбук.md",
     "Test category/Без названия.canvas",
+    "Test category/Drawing 2023-08-03 20.34.13.excalidraw.md",
     "Test category/Oxdoc.md",
-    "Test note.md",
-    "Test category"
+    "Test category/Без названия 1.canvas",
+    "Life/Работа/Отчёты/Untitled.md",
+    "Life/Работа/Отчёты/Drawing 2023-05-15 14.16.44.excalidraw.md",
+    "Life/Работа/Отчёты/29.01.23.canvas",
+    "Life/Работа/Работа.canvas",
+    "Life/Работа/Отчёты",
+    "Life/Работа",
+    "Life/Мира/Желания.canvas",
+    "Life/Мира",
+    "Life/ВУЗ/ОТИ/books/Типы и структуры данных(типография).pdf",
+    "Life/ВУЗ/ОТИ/books/Контр_заочн_мет.pdf",
+    "Life/ВУЗ/ОТИ/Задачи.canvas",
+    "Life/ВУЗ/ОТИ/books",
+    "Life/ВУЗ/ОТИ",
+    "Life/ВУЗ",
+    "Life/Ноут/data/Mac.webp",
+    "Life/Ноут/data/xiaomi.webp",
+    "Life/Ноут/Ноут.canvas",
+    "Life/Ноут/data",
+    "Life/Ноут",
+    "Life/Распорядок дня.md",
+    "Life/Основные цели.md",
+    "Japanese homework/Homework.md",
+    "Japanese homework/日本語の宿題.md",
+    "Japanese/media/img/progress_showcase1.jpg",
+    "Japanese/media/img/progress_showcase0.jpg",
+    "Japanese/media/img/Submit.png",
+    "Japanese/media/img/StartScreen.jpg",
+    "Japanese/Cards.md",
+    "Japanese/Activities/Youtube.md",
+    "Japanese/Activities/TopicsPage.md",
+    "Japanese/Activities/Tests.md",
+    "Japanese/Activities/Selections.md",
+    "Japanese/Activities/Connection game.md",
+    "Todo.canvas"
   ]
 }
